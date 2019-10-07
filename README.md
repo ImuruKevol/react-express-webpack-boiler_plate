@@ -1,4 +1,5 @@
-# 멤버십 프로젝트 - 웹할일관리 저장소
+# Modules
+- yarn upgrade
 
 # Structure
 ```
@@ -43,7 +44,3 @@
 - yarn build
 - yarn start
 - nodemon
-
-
-# Dababase
-- 이미지 첨부, 더 자세한 요구사항 파악 후 첨부
